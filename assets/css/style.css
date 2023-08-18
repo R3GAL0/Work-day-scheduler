@@ -1,0 +1,15 @@
+header{
+    text-align: center;
+}
+
+.past {
+    background-color: blue;
+}
+
+.present {
+    background-color: red;
+}
+
+.future {
+    background-color: green;
+}

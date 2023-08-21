@@ -1,12 +1,12 @@
-# Coding Quiz
+# Work Day Schedueler
 
 [Challenge 5 for Max Walent]
 
-<a href='https://r3gal0.github.io/Coding-Quiz/'>Deployed Link</a>
+<a href='https://r3gal0.github.io/Work-day-scheduler/'>Deployed Link</a>
 
 ## Description
 
-A quiz to test your coding knowledge. Multiple choice questions with your score saved under your initals into local storage.
+Track you actitivities for the day and save any notes you have to your local storage. The tiles change depending on the time of day.
 
 <img src='./assets/images/img1.JPG' alt='Image of the website'/>
 

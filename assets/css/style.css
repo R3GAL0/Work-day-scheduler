@@ -6,13 +6,13 @@ header{
     text-align: center;
 }
 
-/* This is for changing the tile colors with time */
+/* This is for changing the tile and button colors with time */
 .past {
     background-color: lightblue;
 }
 
 .past-btn {
-    background-color: darkblue;
+    background-color: blue;
     color: white;
 }
 
@@ -21,7 +21,7 @@ header{
 }
 
 .present-btn {
-    background-color: red;
+    background-color: crimson;
     color: white;
 }
 
@@ -30,6 +30,6 @@ header{
 }
 
 .future-btn {
-    background-color: darkgreen;
+    background-color: green;
     color: white;
 }

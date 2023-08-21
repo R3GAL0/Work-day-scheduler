@@ -1,15 +1,26 @@
+:root {
+    background-color: grey;
+}
+
 header{
     text-align: center;
 }
 
+button {
+    background-color: darkblue;
+    color: white;
+}
+
+
+/* This is for changing the tile colors with time */
 .past {
-    background-color: blue;
+    background-color: lightblue;
 }
 
 .present {
-    background-color: red;
+    background-color: pink;
 }
 
 .future {
-    background-color: green;
+    background-color: lightgreen;
 }

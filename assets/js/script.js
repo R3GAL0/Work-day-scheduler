@@ -20,13 +20,19 @@ $('.timeBlock').each(function(){
 
     if (blockHour < currentHour){
         $(this).addClass('past');
+        $(this).children().eq(2).addClass('past-btn');
     } else if (blockHour == currentHour){
         $(this).removeClass('past');
+        $(this).children().eq(2).removeClass('past-btn');
         $(this).addClass('present');
+        $(this).children().eq(2).addClass('present-btn');
     } else {
         $(this).removeClass('past');
+        $(this).children().eq(2).removeClass('past-btn');
         $(this).removeClass('present');
+        $(this).children().eq(2).addClass('present-btn');
         $(this).addClass('future');
+        $(this).children().eq(2).addClass('future-btn');
 
     }
 })
